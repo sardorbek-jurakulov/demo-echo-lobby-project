@@ -7,6 +7,8 @@ Say something to me!
 
 /start - start the bot
 /help - command reference
+/echo - say "You said echo"
+/echo <msg> - echo a message
 
 `;
 
